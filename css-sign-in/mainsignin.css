@@ -1,0 +1,146 @@
+h1 {
+    text-align:center;
+  }
+  
+footer {
+  margin-top: 20px;
+  padding: 10px, 0px, 5px, 0px;
+  text-align: center;
+  font-size: 8pt;
+}
+
+body{
+  display: inline;
+
+}
+
+a {
+  color:rgb(64, 143, 247)
+}
+
+.containerwhole {
+  padding-left: 5%;
+  padding-top: 10%;
+  padding-right: 5%;
+}
+
+
+  .container-signin {
+    border-style: none;
+    border-width: .25pt;
+    position: right;
+    padding-left: 3%;
+    padding-top: .1%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    font-family: Calibri;
+  }
+  
+
+.signinbutton{
+  display: grid;
+  grid-template-columns: auto 100px;
+}
+
+
+
+.signin {
+  margin-top: 2%;
+  margin-left: 10%;
+  font-family:sans-serif;
+  font-size: 40pt;
+  font-weight: bold;
+ }
+  
+  .firstinput {
+    width: 100%;
+    height: 35px;
+    border-radius: 20px;
+    margin-top: 10%;
+    border-width: .5px;
+    border-color: rgb(209, 211, 212);
+  }
+  
+  .secinput {
+    width: 100%;
+    height: 35px;
+    border-radius: 20px;
+    border-width: .5px;
+    border-color: rgb(209, 211, 212);
+  }
+
+  .thirdinput {
+    width: 100%;
+    height: 35px;
+    border-radius: 20px;
+    border-width: .5px;
+    border-color: rgb(209, 211, 212);
+  }
+
+
+  #signinbutton {
+    background-color: #0052cc;
+    border-width: .5pt;
+    border-radius: 30px;
+    height:35px;
+    width: 60%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+    margin-right: 20%;
+    position: relative;
+    color: white
+}
+
+
+.container-or{
+  font-size: 50%;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-right: 30%;
+  position: relative;
+  width: 150px;
+}
+
+  .socialmedia {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    position: relative;
+  }
+  
+  
+  .facebook {
+    border-color: rgb(158, 157, 157);
+    border-width: .5px;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.123);
+  }
+  
+  .twitter {
+    border-color: rgb(158, 157, 157);
+    border-width: .5px;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.123);
+  }
+  
+  .google {
+    border-color: rgb(158, 157, 157);
+    border-width: .5px;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.123);
+  }
+  
+  .linkedin {
+    border-color: rgb(158, 157, 157);
+    border-width: .5px;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.123);
+  }
+
+.container-img {
+  background-color: #0052cc;
+}
