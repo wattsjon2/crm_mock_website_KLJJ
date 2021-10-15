@@ -1,0 +1,36 @@
+.header-wrapper-right{
+    
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+
+}
+
+.header-wrapper-left{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+    text-align: left;
+
+}
+
+.header-container{
+    margin: 20vh;
+}
+
+@media (max-width: 1400px){
+    .header-container{
+        margin: 10vh; }
+}
+
+@media (max-width: 1024px){
+    .header-container{
+        margin: 1vh; }
+}
+
+
+#boldtext{
+    font-weight: bold;
+}
+
