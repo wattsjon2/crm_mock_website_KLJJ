@@ -16,12 +16,13 @@
 }
 
 .header-container{
-    margin: 20vh;
+    margin: 0 20vh 0 20vh;
 }
 
 @media (max-width: 1400px){
     .header-container{
-        margin: 10vh; }
+        margin: 0 10vh 0 10vh;
+     }
 }
 
 @media (max-width: 1024px){

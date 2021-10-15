@@ -1,10 +1,14 @@
+@import "./header.css";
+@import "./home.css";
+@import "./howitworksbody.css"
+
 body {
     color: white;
     font-family: 'Lato', sans-serif;
  
 }
 .footer {
-    position:fixed;
+
     bottom:0;
     height:30vh;
     padding-bottom: 3rem;
@@ -14,6 +18,7 @@ body {
     flex-direction: column;
     width: 100vw;
     background-color: #0052cc;
+    color: #eee;
 }
 .row__item {
     margin-right: 1rem;
